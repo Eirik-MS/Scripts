@@ -81,7 +81,7 @@ $packages = @(
     'windirstat',                 # WinDirStat
     'FiraCode',                   # FiraCode
     'pandoc',                     # Pandoc
-    'ffmpeg',                     # FFmpeg
+    'ffmpeg'                     # FFmpeg
     #'winaero-tweaker',            # Winaero Tweaker
     #'windowsspyblocker',          # WindowsSpyBlocker
     # Add more packages here
