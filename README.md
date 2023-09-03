@@ -8,6 +8,6 @@ Initialize Windows 10 by Chocolatey and Boxstarter
    
    ```powershell
    Set-ExecutionPolicy Bypass -Scope Process -Force
-   iex ((new-object net.webclient).DownloadString(''))
+   iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/Eirik-MS/Scripts/master/win_setup.ps1'))
    ```
    
